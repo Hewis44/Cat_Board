@@ -1,3 +1,7 @@
+## Cat BOARD
+
+
+
 I had been typing away on my old membrane board for months, and every keystroke felt flat and uninspired. One evening, while sipping chai and scrolling through keyboard community photos, I thought, yaar, I need something that’s truly mine. That’s when the idea for Neon Beats struck me. I sketched out a classic 65 percent layout in my notebook, then shifted to EasyEDA where I placed sixty‑one hot‑swap switch footprints and two rotary encoders at the top right. But I wanted one more thing to make it stand out: a little 0.91‑inch OLED screen tucked between the encoders so I could see which layer I’m on, check a quick timer, or even show a simple logo when the board is idle.
 
 
@@ -93,20 +97,22 @@ Building Neon Beats taught me that elegance and functionality don’t need fla
 
 
 
-Here is the streamlined Bill of Materials in Indian rupees and US dollars, keeping the total under $140:
+H## Bill of Materials
 
-Component	Source & Link	Qty	Total Cost (INR)	Total Cost (USD)
-Gateron Yellow Mechanical Switches	Amazon.in (70‑pack)	61	₹2,400	$25
-PBT Dye‑sublimated Keycaps (Black)	neomacro.in	61	₹2,550	$30
-Kailh Hot‑swap Sockets	neomacro.in	61	₹1,275	$15
-Rotary Encoders	neomacro.in	2	₹340	$4
-Encoder Knobs	neomacro.in	2	₹170	$2
-0.91″ OLED Screen Module	Amazon.in	1	₹600	$8
-Custom PCB (5 pcs)	JLCPCB via EasyEDA	5	₹2,550	$30
-Arduino Pro Micro	Amazon.in	1	₹850	$10
-Diode Kit (100 pcs, 1N4148)	Amazon.in	1	₹85	$1
-Shipping (PCBs)	JLCPCB	1	₹425	$5
-PLA Filament (Matte Black)	Local Supplier	–	₹800	$10
+| Component                         | Source & Link        | Qty | Total Cost (INR) | Total Cost (USD) |
+|-----------------------------------|----------------------|----:|-----------------:|-----------------:|
+| Gateron Yellow Mechanical Switches | Amazon.in (70‑pack) |  61 | ₹2,400           | $25              |
+| PBT Dye‑sublimated Keycaps (Black) | neomacro.in         |  61 | ₹2,550           | $30              |
+| Kailh Hot‑swap Sockets             | neomacro.in         |  61 | ₹1,275           | $15              |
+| Rotary Encoders                    | neomacro.in         |   2 | ₹340             | $4               |
+| Encoder Knobs                      | neomacro.in         |   2 | ₹170             | $2               |
+| 0.91″ OLED Screen Module           | Amazon.in           |   1 | ₹600             | $8               |
+| Custom PCB (5 pcs)                 | JLCPCB via EasyEDA  |   5 | ₹2,550           | $30              |
+| Arduino Pro Micro                  | Amazon.in           |   1 | ₹850             | $10              |
+| Diode Kit (100 pcs, 1N4148)        | Amazon.in           |   1 | ₹85              | $1               |
+| Shipping (PCBs)                    | JLCPCB              |   1 | ₹425             | $5               |
+| **Total**                          |                      |     |                  | **$130**         |
+
 
 Total cost for Neon Beats comes to approximately ₹11,645 or about $130, leaving room for any small extras while keeping the build under $140. Neon Beats now sits proudly on my desk, every keystroke a reminder of late‑night soldering, Fusion 360 tweaks, and the simple joy of making something truly my own.
 
