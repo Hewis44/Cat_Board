@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/973e51d9-64d8-481f-b7a6-e098c4fb3048
 
 
 
-Building Neon Beats taught me that elegance and functionality don’t need flashy RGB floodlights. This keyboard is about pure mechanical satisfaction, a reliable Pro Micro brain, and a little OLED to keep me informed. It’s a perfect blend of desi jugaad spirit and modern maker culture, and every time I sit down to type, I feel proud of what I’ve created.
+ elegance and functionality don’t need flashy RGB floodlights. This keyboard is about pure mechanical satisfaction, a reliable Pro Micro brain, and a little OLED to keep me informed. It’s a perfect blend of desi jugaad spirit and modern maker culture, and every time I sit down to type.
 
 
 
@@ -114,7 +114,7 @@ H## Bill of Materials
 | **Total**                          |                      |     |                  | **$130**         |
 
 
-Total cost for Neon Beats comes to approximately ₹11,645 or about $130, leaving room for any small extras while keeping the build under $140. Neon Beats now sits proudly on my desk, every keystroke a reminder of late‑night soldering, Fusion 360 tweaks, and the simple joy of making something truly my own.
+Total cost for Neon Beats comes to approximately ₹11,645 or about $130
 
 
 
