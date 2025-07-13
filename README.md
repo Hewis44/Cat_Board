@@ -2,7 +2,7 @@
 
 
 
-I had been typing away on my old membrane board for months, and every keystroke felt flat and uninspired. One evening, while sipping chai and scrolling through keyboard community photos, I thought, yaar, I need something that’s truly mine. That’s when the idea for Neon Beats struck me. I sketched out a classic 65 percent layout in my notebook, then shifted to EasyEDA where I placed sixty‑one hot‑swap switch footprints and two rotary encoders at the top right. But I wanted one more thing to make it stand out: a little 0.91‑inch OLED screen tucked between the encoders so I could see which layer I’m on, check a quick timer, or even show a simple logo when the board is idle.
+I had been typing away on my old membrane board for months, and every keystroke felt flat and uninspired. One evening, while sipping chai and scrolling through keyboard community photos, I thought, yaar, I need something that’s truly mine. That’s when the idea for CAt board  struck me. I sketched out a classic 65 percent layout in my notebook, then shifted to EasyEDA where I placed sixty‑one hot‑swap switch footprints and two rotary encoders at the top right. But I wanted one more thing to make it stand out: a little 0.91‑inch OLED screen tucked between the encoders so I could see which layer I’m on, check a quick timer, or even show a simple logo when the board is idle.
 
 
 
