@@ -16,7 +16,7 @@ I had been typing away on my old membrane board for months, and every keystroke 
 
 
 
-Once the PCB design was squared away, I sent five copies to JLCPCB with a black solder mask and crisp white silkscreen reading Neon Beats. To save costs and embrace a little desi jugaad, I skipped the full PCBA option and instead hand‑soldered the Pro Micro and the SMD diodes myself. That late‑night soldering session under my desk lamp was oddly therapeutic, each tiny diode click‑click into place giving me a deeper connection with the board. When I first powered it up, seeing the OLED light up with a welcome graphic was pure satisfaction.
+Once the PCB design was squared away, I sent five copies to JLCPCB with a black solder mask and crisp white silkscreen  To save costs and embrace a little desi jugaad, I skipped the full PCBA option and instead hand‑soldered the Pro Micro and the SMD diodes myself. That late‑night soldering session under my desk lamp was oddly therapeutic, each tiny diode click‑click into place giving me a deeper connection with the board. When I first powered it up, seeing the OLED light up with a welcome graphic was pure satisfaction.
 
 
 
@@ -114,7 +114,7 @@ H## Bill of Materials
 | **Total**                          |                      |     |                  | **$130**         |
 
 
-Total cost for Neon Beats comes to approximately ₹11,645 or about $130
+Total cost for Cat Board comes to approximately ₹11,645 or about $130
 
 
 
